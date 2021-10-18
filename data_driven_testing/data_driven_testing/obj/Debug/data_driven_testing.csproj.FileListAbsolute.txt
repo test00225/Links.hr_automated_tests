@@ -1,0 +1,65 @@
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\NUnit3.TestAdapter.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\NUnit3.TestAdapter.pdb
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.api.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\data_driven_testing.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\data_driven_testing.pdb
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.Support.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.pdb
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.xml
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.xml
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.Support.xml
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.csprojResolveAssemblyReference.cache
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.dll
+C:\app\TestAutomation_exercises\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.pdb
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\NUnit3.TestAdapter.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\NUnit3.TestAdapter.pdb
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.api.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.core.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\testcentric.engine.metadata.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\data_driven_testing.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\data_driven_testing.pdb
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.Support.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.xml
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.csprojResolveAssemblyReference.cache
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.dll
+C:\app\automatizacija trening\EXCERCISES_DONE\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.pdb
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.api.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.core.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\data_driven_testing.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\data_driven_testing.pdb
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.Support.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.xml
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.csprojResolveAssemblyReference.cache
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.dll
+C:\Users\nada.cvejic\Desktop\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.pdb
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\NUnit3.TestAdapter.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\NUnit3.TestAdapter.pdb
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.api.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\nunit.engine.core.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\testcentric.engine.metadata.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\data_driven_testing.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\data_driven_testing.pdb
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\WebDriver.Support.dll
+C:\app\links\data_driven_testing\data_driven_testing\bin\Debug\nunit.framework.xml
+C:\app\links\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.csprojResolveAssemblyReference.cache
+C:\app\links\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.dll
+C:\app\links\data_driven_testing\data_driven_testing\obj\Debug\data_driven_testing.pdb
